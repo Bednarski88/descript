@@ -2,5 +2,5 @@
 My personal repository
 
 
-To jest strona o mnie
+HTML | CSS | JS | React
 :smile:
